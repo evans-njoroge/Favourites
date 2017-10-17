@@ -1,0 +1,14 @@
+h1 {
+  color: blue;}
+li {color: red;
+}
+li {font-style: :14;
+ }
+p.intro{
+  font-style: italic;
+  width: 50%;
+}
+.photo {
+  height: 300px;
+  width: 400px;
+}
